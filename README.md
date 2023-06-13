@@ -20,3 +20,7 @@ Prediction Model (30 points):
 
 Report  
 Submit a comprehensive report detailing the findings mentioned above. Ensure that your report incorporates both qualitative and quantitative insights. The evaluation of reports will consider factors such as presentation structure, approach, content, and completeness.
+
+
+DATA SOURCES :
+- OCEAN prices, OCEAN tweets : https://drive.google.com/file/d/1pJwtWtdKIsFvLN1IkqSqoYPnMWDnmL7_/view  
