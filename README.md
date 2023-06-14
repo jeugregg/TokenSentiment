@@ -1,6 +1,8 @@
 # TokenSentiment
 OCEAN Token Sentiment Analysis Challenge  
 
+Presentatation in doc folder !
+
 Introducing the OCEAN Token Sentiment Data Challenge! We're calling on data scientists, analysts, and data engineers to participate in this exciting competition. The challenge revolves around developing data analysis reports and machine learning models that accurately assess investor sentiment towards the OCEAN token.  
 
 Social media, particularly Twitter, has emerged as a valuable source of information and opinions about cryptocurrencies. Investors express their perspectives, analysis, and emotions through tweets, creating a continuous flow of market-related data. By analyzing this data, we can identify trends and shifts in sentiment that can significantly impact the token's value and popularity. This analysis plays a vital role in helping investors manage their investments and make well-informed decisions in response to market fluctuations.  
